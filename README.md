@@ -1,6 +1,6 @@
 # c-1
 这是我的c++学习记录
-#include <bits/stdc++.h>
+···#include <bits/stdc++.h>
 using namespace std;
 long long n, q, a[200001],  total = 1, b[200001], c[200001];
 char pp[200001];
@@ -27,5 +27,6 @@ signed main() {
 	for (int i = 1; i <= n; i++)
 		printf("%lld ", a[i]);
 	return 0;
-}
+}···
 //这是解决单点修改，全部乘法的c++代码
+格式没做好，请见谅
